@@ -19,3 +19,11 @@ body {
   font-size: 22;
 }
 
+
+.head {
+  height: 100px;
+  width: 500px; 
+  text-align: center;
+  background-color: rgb(17, 100, 128);
+  letter-spacing: 15px;
+}
