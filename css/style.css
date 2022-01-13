@@ -22,7 +22,8 @@ body {
 
 .head {
   height: 100px;
-  width: 200px; 
+  width: 500px; 
+  text-align: center;
   background-color: rgb(17, 100, 128);
-  letter-spacing: 10px;
+  letter-spacing: 15px;
 }
